@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Android Development**
 
-- 💬 Ask me about **Android, wxWidgets, API, Competitive programming**
+- 💬 Ask me about **Android, wxWidgets, API and Competitive Programming**
 
 - 📫 How to reach me **piunusratjahan@gmail.com**
 
