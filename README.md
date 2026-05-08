@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on Nubcc<br>
 <br>🌱 I’m currently learning Android Development<br>
 <br>🤝 I’m looking for help with Android Development<br>
@@ -6,7 +6,8 @@
 <br>📫 How to reach me piunusratjahan@gmail.com<br>
 <br>⚡ Fun fact, I can be kind in this cruel world~
 
-
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=suunshinie&label=Profile%20views&color=0e75b6&style=flat" alt="suunshinie" /> </p>
+<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tu_lee71) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taslima-akter-tuli/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taaslimaakter5@gmail.com) 
 
