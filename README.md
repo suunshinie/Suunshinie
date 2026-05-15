@@ -1,3 +1,6 @@
+<h1><br>Hi, I'm Sunshinie~<br></h1>
+<hr>
+
 #  About Me:
 🔭 I’m currently working on Nubcc<br>
 <br>🌱 I’m currently learning Android Development<br>
